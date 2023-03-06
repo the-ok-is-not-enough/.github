@@ -37,9 +37,9 @@ If you only want to check if the provided code builds you can simply `cd` into t
 
 ### Requirements (High level)
 
-- scala
+- scala 2.13
 - sbt
-- java SDK
+- Java SDK
 - rooted Smartphone
   - Android (we used an Galaxy A13)
   - or iOS (we used an iPhone 8s)
