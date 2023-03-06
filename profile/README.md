@@ -27,3 +27,26 @@ The [scala-appanalyzer](https://github.com/the-ok-is-not-enough/scala-appanalyze
 ### 3. Analyzing the Results
 
 The [scala-plotalyzer]() affords to analyze the previously collected data and to generate neat json files summarizing the relevant information for later reporting or plotting.
+
+
+## How to Test/Use the Artifacts
+
+If you want to replicate our work/use the artifacts provided to perform your own study. Follow the high level instructions below and pay close attention to the detailed information provided by the README.md of each mentioned repository.
+
+If you only want to check if the provided code builds you can simply `cd` into the corresponding repository and run `sbt run stage` which triggers the build process and produces an executable at `<project_dir>/target/universal/stage/bin/<projectname>`. Each executable provides a `-h` flag when executed without parameter.
+
+In case you are interested in a more in-depth exploration of the capabilities, please refer to the individual READMEs.
+
+### Requirements (High level)
+
+- scala
+- sbt
+- java SDK
+- rooted Smartphone
+  - Android (we used an Galaxy A13)
+  - or iOS (we used an iPhone 8s)
+- Google/Apple Account
+  - required to download apps 
+  - required to run apps on iOS
+- Apple Dev Account
+  - required to run apps on iOS
