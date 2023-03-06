@@ -26,7 +26,7 @@ The [scala-appanalyzer](https://github.com/the-ok-is-not-enough/scala-appanalyze
 
 ### 3. Analyzing the Results
 
-The [scala-plotalyzer]() affords to analyze the previously collected data and to generate neat json files summarizing the relevant information for later reporting or plotting.
+The [scala-plotalyzer](https://github.com/the-ok-is-not-enough/scala-plotalyzer) affords to analyze the previously collected data and to generate neat json files summarizing the relevant information for later reporting or plotting.
 
 
 ## How to Test/Use the Artifacts
@@ -48,3 +48,5 @@ If you only want to check if the provided code builds you can simply `cd` into t
   - required to run apps on iOS
 - Apple Dev Account
   - required to run apps on iOS
+- [Googleplay tool]()
+- [ipatool-py](https://github.com/the-ok-is-not-enough/ipatool-py)
