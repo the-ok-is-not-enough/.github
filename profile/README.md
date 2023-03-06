@@ -1,6 +1,6 @@
 # The OK Is Not Enough : A Large Scale Study of Consent Dialogs in Smartphone Applications
 
-This org represents the state of the code used to collect the data for *The OK Is Not Enough : A Large Scale Study of Consent Dialogs in Smartphone Applications* to appear at the USENIX Security 2023. The contained repositories solely represent research artifacts and are not meant to represent the current state of the art. If you are interested in the current progress please contact on of the authors or check out the main repositories.
+This org represents the state of the code used to collect the data for *The OK Is Not Enough : A Large Scale Study of Consent Dialogs in Smartphone Applications* to appear at the USENIX Security 2023. The contained repositories solely represent research artifacts and are not meant to represent the current state of the art, at least not for long. If you are interested in the current progress please contact on of the authors or check out the main repositories.
 
 ```
 @inproceedings{USENIX:Koch:2023,
