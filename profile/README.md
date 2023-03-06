@@ -48,5 +48,5 @@ If you only want to check if the provided code builds you can simply `cd` into t
   - required to run apps on iOS
 - Apple Dev Account
   - required to run apps on iOS
-- [Googleplay tool]()
+- [Googleplay tool](https://github.com/the-ok-is-not-enough/googleplay)
 - [ipatool-py](https://github.com/the-ok-is-not-enough/ipatool-py)
