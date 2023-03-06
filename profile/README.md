@@ -20,7 +20,7 @@ We have multiple repositories for the different steps required to perform a mobi
 The [app-downloader](https://github.com/the-ok-is-not-enough/app-downloader) affords to download apps from the app store for both Android and iOS.
 
 
-### 2. Analyzing Apps
+### 2. Running the Apps
 
 The [scala-appanalyzer](https://github.com/the-ok-is-not-enough/scala-appanalyzer) affords to analyze a predefined set of apps against an Android (Galaxy A13 tested) or iOS (iPhone 8s tested) smartphone.
 
