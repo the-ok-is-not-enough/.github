@@ -35,8 +35,6 @@ If you want to replicate our work/use the artifacts provided to perform your own
 
 If you only want to check if the provided code builds you can simply `cd` into the corresponding repository and run `sbt run stage` which triggers the build process and produces an executable at `<project_dir>/target/universal/stage/bin/<projectname>`. Each executable provides a `-h` flag when executed without parameter.
 
-In case you are interested in a more in-depth exploration of the capabilities, please refer to the individual READMEs.
-
 ### Requirements (High level)
 
 - scala
