@@ -14,7 +14,7 @@ booktitle = {32nd USENIX Security Symposium},
 
 ## How to Use This Org
 
-We have multiple repositories for the different steps required to perform an mobile application analysis:
+We have multiple repositories for the different steps required to perform a mobile application analysis:
 
 ### 1. Downloading Apps
 
